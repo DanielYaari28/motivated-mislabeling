@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+results/dry_*
+results/trial*
+results/summary.*
+.venv/
+results/*
+!results/.gitkeep
+.env
+*.env
+.DS_Store
